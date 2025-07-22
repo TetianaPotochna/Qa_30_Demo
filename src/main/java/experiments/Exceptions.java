@@ -1,5 +1,5 @@
 package experiments;
-
+//
 public class Exceptions {
     public static void main(String[] args) {
         String[] strArray = {"str1", "str2", "str3"};
@@ -32,3 +32,4 @@ public class Exceptions {
         Thread.sleep(3000);
     }
 }
+//
